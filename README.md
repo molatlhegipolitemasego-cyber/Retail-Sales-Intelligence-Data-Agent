@@ -11,7 +11,7 @@ The agent transforms transaction data into clear business insights that can supp
 ## Tools Used
 
 - Databricks
-- Databricks Data Agent
+- Databricks Data Agent (Genie Spaces)
 - SQL
 - GitHub
 - CSV Retail Sales Dataset
